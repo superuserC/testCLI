@@ -2,5 +2,5 @@
 //ceci est une seconde ligne de commentaire...
 #include <stdio.h>
  void main(int argc, char argv){
-    printf("hello world !"); 
+    printf("Hello World !"); 
  }
